@@ -1,0 +1,17 @@
+C:\Users\Administrador\source\repos\Clases\Clases\bin\Debug\net6.0-windows\Clases.exe
+C:\Users\Administrador\source\repos\Clases\Clases\bin\Debug\net6.0-windows\Clases.deps.json
+C:\Users\Administrador\source\repos\Clases\Clases\bin\Debug\net6.0-windows\Clases.runtimeconfig.json
+C:\Users\Administrador\source\repos\Clases\Clases\bin\Debug\net6.0-windows\Clases.dll
+C:\Users\Administrador\source\repos\Clases\Clases\bin\Debug\net6.0-windows\Clases.pdb
+C:\Users\Administrador\source\repos\Clases\Clases\obj\Debug\net6.0-windows\Clases.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Clases\Clases\obj\Debug\net6.0-windows\Clases.Form1.resources
+C:\Users\Administrador\source\repos\Clases\Clases\obj\Debug\net6.0-windows\Clases.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Clases\Clases\obj\Debug\net6.0-windows\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\Clases\Clases\obj\Debug\net6.0-windows\Clases.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\Clases\Clases\obj\Debug\net6.0-windows\Clases.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\Clases\Clases\obj\Debug\net6.0-windows\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Clases\Clases\obj\Debug\net6.0-windows\Clases.dll
+C:\Users\Administrador\source\repos\Clases\Clases\obj\Debug\net6.0-windows\refint\Clases.dll
+C:\Users\Administrador\source\repos\Clases\Clases\obj\Debug\net6.0-windows\Clases.pdb
+C:\Users\Administrador\source\repos\Clases\Clases\obj\Debug\net6.0-windows\Clases.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\Clases\Clases\obj\Debug\net6.0-windows\ref\Clases.dll
